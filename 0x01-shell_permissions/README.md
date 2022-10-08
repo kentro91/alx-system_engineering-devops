@@ -25,3 +25,6 @@ script that adds execution permission to the owner, the group owner and the othe
 
 ## 8-James_Bond
 script that sets the permission to the file hello
+
+## 9-John_Doe
+script that sets the mode of the file hello to this
