@@ -67,3 +67,6 @@ Create a script that removes all letters c and C from input.
 
 # 21. esreveR
 script that reverse its input.
+
+# 22. DJ Cut Killer
+script that displays all users and their home directories, sorted by users.
